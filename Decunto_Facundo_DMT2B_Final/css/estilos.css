@@ -11,6 +11,15 @@ body {
   font-family: "Handlee", cursive;
 }
 
+.fondo-verde {
+  background-color: #94b333;
+}
+
+.fondo-oscuro {
+  background-color: #212529;
+}
+
+
 div.parallax {
   background-image: url("../imagenes/PatronPlantasFinal80.png");
   background-attachment: fixed;
