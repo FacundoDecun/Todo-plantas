@@ -10,3 +10,8 @@ body {
   height: 100%;
   font-family: "Handlee", cursive;
 }
+
+div.parallax {
+  background-image: url("../imagenes/PLANTASPATRON85%.png");
+  background-attachment: fixed;
+}
